@@ -1,5 +1,7 @@
 
-# TOTEM PARA COLETA DE MATERIAIS
+# Totem de Reciclagem Inteligente
+
+### TOTEM PARA COLETA DE MATERIAIS
 
 _Diminuição do descarte incorreto de lixo_
 
