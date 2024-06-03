@@ -1,66 +1,53 @@
+Leia versão em português [aqui](portuguese_README.md).
 
-# Totem de Reciclagem Inteligente
+# Intelligent Recycling Totem
 
-### TOTEM PARA COLETA DE MATERIAIS
+### TOTEM FOR MATERIAL COLLECTION
 
-_Diminuição do descarte incorreto de lixo_
+_Reducing improper waste disposal_
 
-Há alguns anos que junto de alguns colegas de turma, conseguimos desenvolver um projeto sustentável baseado em algumas tecnologias que são recorrentes hoje em dia no mercado. Meu propósito aqui não é expor o trabalho privado dos outros, mas sim trazer a público o que se referiu a minha parte desse projeto, conforme eu for recuperando o que se tinha daquela época.
+A few years ago, along with some classmates, we managed to develop a sustainable project based on some technologies that are currently common in the market. My purpose here is not to expose the private work of others, but to bring to the public what referred to my part of this project, as I recover what was available from that time.
 
+## Purpose
 
-## Propósito
+The idea of the project came from observing the daily life of the population of Santos, more specifically of ETEC Aristóteles Ferreira. From the observation made, it was noted that the entrance of the school, the bus stops, the beaches, and the streets of the city, in general, have a large number of cigarette butts and chewing gum.
 
-A ideia do projeto partiu da observação do cotidiano da população santista,
-mais especificamente da ETEC Aristóteles Ferreira. A partir da observação feita,
-pode-se notar que a entrada da escola, os pontos de ônibus, as praias e as ruas da
-cidade, em geral, possuem um grande número de bitucas de cigarro e gomas de
-mascar. 
+In addition, even though there are specific collection points for batteries and, in some, bus stops for cigarette butts, people do not dispose of these materials correctly. Therefore, the need for motivation for correct disposal was noticeable.
 
-Além disso, mesmo existindo pontos de coleta específicos para as pilhas e,
-em alguns, pontos de ônibus, para as bitucas, as pessoas não realizam o descarte
-correto dos materiais mencionados. Logo, foi perceptível a necessidade de uma
-motivação para que os corretos descartes sejam realizados. 
+Thus, the solution found was to recharge the cell phone battery, as cell phones are extremely necessary for people's daily lives and often there are no public places to charge them.
 
-Desta forma, a solução
-encontrada foi a de recarga da bateria do celular, uma vez que os aparelhos
-celulares são extremamente necessários para o cotidiano das pessoas e que, muitas
-vezes, não há nos lugares públicos onde carregá-los.
+![Authors presenting the Totem at a project fair](images/img2.jpg)
 
-![Autores apresentando o Totem em uma feira de projetos](images/img2.jpg)
+## Features
 
-## Funcionalidades
+- Create/Log in to an account
+- Exchange recyclable materials for points
+- Exchange points for battery recharge
+- Securely stored information in the cloud
 
-- Criar/Entrar em uma conta
-- Trocar materiais recicláveis por pontos
-- Trocar pontos por recarga de bateria
-- Informação salva de modo seguro na nuvem
+## Technologies and Development
 
+![Hardware Diagram](images/diagram.png)
 
-
-## Tecnologias e Desenvolvimento
-
-![Diagrama do Hardware](images/diagram.png)
-
-Dentre as tecnologias referentes a esse projeto, podemos separá-las majoritariamente em hardware e software:
+Among the technologies related to this project, we can mostly separate them into hardware and software:
 
 ### Hardware
-- Microcontrolador ATMEGA
-- Microcontrolador ESP8266
-- Gerador e Controlador de Energia Solar Fotovoltaica
-- Servidores na Nuvem
+- ATMEGA Microcontroller
+- ESP8266 Microcontroller
+- Photovoltaic Solar Energy Generator and Controller
+- Cloud Servers
 
 ### Software
-- Linguagem C com IDE Arduino
-- Bibliotecas ESP32 para integração IoT
-- Banco de Dados SQL
+- C Language with Arduino IDE
+- ESP32 Libraries for IoT integration
+- SQL Database
 - PHP
 - MIT AppInventor
 
-Uma amostra mais detalhada do desenvolvimento desse projeto pode ser vista no arquivo `Totem_Docs.pdf`.
+A more detailed sample of the development of this project can be seen in the `Totem_Docs.pdf` file.
 
-## Autores
+## Authors
 
 - [Yuri Mazzetto de Menezes](https://www.github.com/yurimdm)
 - Sara Rodrigues dos Santos
 - Diego Godina Santos
-
