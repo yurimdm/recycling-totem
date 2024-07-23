@@ -48,6 +48,6 @@ A more detailed sample of the development of this project can be seen in the `To
 
 ## Authors
 
-- [Yuri Mazzetto de Menezes](https://www.github.com/yurimdm)
-- Sara Rodrigues dos Santos
+- [Yuri Mazzetto de Menezes](https://www.linkedin.com/in/y-uri/)
+- [Sara Rodrigues dos Santos](https://www.linkedin.com/in/sararodriguesantos/)
 - Diego Godina Santos
